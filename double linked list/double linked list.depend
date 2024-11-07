@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728884061 source:c:\users\claudia\onedrive\documents\new folder\alpro\belajar\double linked list\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1728883988 source:c:\users\claudia\onedrive\documents\new folder\alpro\belajar\double linked list\double linkedlist.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
